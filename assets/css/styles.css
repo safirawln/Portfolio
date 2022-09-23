@@ -563,7 +563,6 @@ img {
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
   }
-  
   .nav__menu{
     padding: 2rem .25rem 4rem;
   }
@@ -693,6 +692,6 @@ img {
     width: 320px;
   }
   .home__social{
-    transform: translate(-6rem);
+    transform: translateX(-6rem);
   }
 }
