@@ -687,6 +687,7 @@ img {
   }
   .footer__links{
     display: grid;
+    flex-direction: row;
     column-gap: 2rem;
   }
   .footer__socials{
