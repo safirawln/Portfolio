@@ -686,8 +686,7 @@ img {
     padding: 3rem 0 3.5rem;
   }
   .footer__links{
-    display: table-row;
-    flex-direction: row;
+    flex-direction: column;
     column-gap: 2rem;
   }
   .footer__socials{
